@@ -5,7 +5,7 @@ It replaces ad-hoc secret sharing with controlled access, auditability, and pred
 
 ## Problem
 
-Most teams still share `.env` values through ad-hoc channels like chat, docs, and copy-paste.
+Most teams still share `.env` values through improv channels like chat, docs, and copy-paste.
 That creates:
 
 - inconsistent local environments
@@ -90,8 +90,8 @@ sudo make install
   - re-login with `envsync auth login`
 
 ## Repository Guides
-- Backend GitHub: https://github.com/DarynOngera/envsync_backend
-- CLI GitHub: https://github.com/DarynOngera/envsync_cli
+- [Backend GitHub]( https://github.com/DarynOngera/envsync_backend)
+- [CLI GitHub](https://github.com/DarynOngera/envsync_cli)
 
 
 https://github.com/user-attachments/assets/79fc51e0-1399-4943-92d3-1fa5297d628b
