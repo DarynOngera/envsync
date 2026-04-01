@@ -1,13 +1,7 @@
 # EnvSync
 
 EnvSync is a secure secret synchronization system for development teams.  
-It replaces ad-hoc secret sharing with controlled access, auditability, and predictable local environment setup.
-
-## Demo
-
-Add your screen recording link here:
-
-- `TODO: demo link (login -> create project -> sync secrets)`
+It replaces ad-hoc secret sharing with controlled access, auditability, and predictable local environment setup
 
 ## Problem
 
