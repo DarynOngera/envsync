@@ -9,15 +9,22 @@ Add your screen recording link here:
 
 - `TODO: demo link (login -> create project -> sync secrets)`
 
-## Why EnvSync
+## Problem
 
-Teams usually share `.env` values through chat, docs, and copy-paste. That causes:
+Most teams still share `.env` values through ad-hoc channels like chat, docs, and copy-paste.
+That creates:
 
 - inconsistent local environments
 - unclear access history
 - difficult secret rotation
 
-EnvSync provides one source of truth for project secrets and a repeatable sync flow for every developer.
+## Solution
+
+EnvSync provides one source of truth for project secrets with controlled access and auditability.
+It combines:
+
+- a backend API for auth, authorization, encrypted storage, and audit logs
+- a CLI that syncs project secrets into local `.env` using a repeatable workflow
 
 ## How It Works
 
