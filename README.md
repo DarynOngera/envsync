@@ -6,6 +6,8 @@ It replaces unsafe secret sharing methods with controlled access, auditability, 
 
 It targets teams that prefer on-premise secret management.
 
+https://github.com/user-attachments/assets/79fc51e0-1399-4943-92d3-1fa5297d628b
+
 ## Problem
 
 Most teams still share `.env` values through improv channels like chat, docs, and copy-paste.
@@ -97,7 +99,7 @@ sudo make install
 - [CLI GitHub](https://github.com/DarynOngera/envsync_cli)
 
 
-https://github.com/user-attachments/assets/79fc51e0-1399-4943-92d3-1fa5297d628b
+
 
 
 
