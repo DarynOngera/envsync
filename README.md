@@ -95,3 +95,10 @@ mix escript.build
 - CLI guide: `../envsync_cli/README.md`
 - Backend GitHub: https://github.com/DarynOngera/envsync_backend
 - CLI GitHub: https://github.com/DarynOngera/envsync_cli
+
+
+https://github.com/user-attachments/assets/79fc51e0-1399-4943-92d3-1fa5297d628b
+
+
+
+
