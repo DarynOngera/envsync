@@ -6,7 +6,13 @@ It replaces unsafe secret sharing methods with controlled access, auditability, 
 
 It targets teams that prefer on-premise secret management.
 
-https://github.com/user-attachments/assets/79fc51e0-1399-4943-92d3-1fa5297d628b
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/79fc51e0-1399-4943-92d3-1fa5297d628b"
+    alt="Preview"
+    style="border: none; outline: none; box-shadow: none;"
+  />
+</p>
 
 ## Problem
 
