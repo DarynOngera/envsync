@@ -67,9 +67,9 @@ CLI:
 
 ```bash
 cd ../envsync_cli
-mix deps.get
-mix escript.build
-./envsync help
+make help
+make build
+sudo make install
 ```
 
 ## Security Model
@@ -90,9 +90,6 @@ mix escript.build
   - re-login with `envsync auth login`
 
 ## Repository Guides
-
-- Backend guide: `../envsync_backend/README.md`
-- CLI guide: `../envsync_cli/README.md`
 - Backend GitHub: https://github.com/DarynOngera/envsync_backend
 - CLI GitHub: https://github.com/DarynOngera/envsync_cli
 
